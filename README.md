@@ -1,5 +1,7 @@
 
-# detonations
+# deTONAtions
+
+Dusty Endevours at TONAntzintla: Turbulent Interplay Of Nebulae and Shocks
 
 Modular Eulerian Python project for 3-D hydrodynamical simulations.
 
