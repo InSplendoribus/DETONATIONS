@@ -1,7 +1,7 @@
 
 # detonations
 
-Simple modular Python project for cloud–cloud simulations.
+Modular Eulerian Python project for 3-D hydrodynamical simulations.
 
 ## Layout
 (see tree inside archive)
