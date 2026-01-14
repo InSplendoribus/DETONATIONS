@@ -5,6 +5,8 @@ Dusty Endevours at TONAntzintla: Turbulent Interplay Of Nebulae and Shocks
 
 Modular Eulerian Python project for 3-D hydrodynamical simulations.
 
+Author: Dr. Sergio Martínez González (INAOE)
+
 ## Layout
 (see tree inside archive)
 
